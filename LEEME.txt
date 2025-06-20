@@ -1,0 +1,5 @@
+Analizador léxico y sintactico para el lenguaje de programación Kratos
+Hecho por: Fernando Israel Gomez Sandoval 21041252
+
+Hecho en QT Creator 13.0.0
+Compilador: MinGW
