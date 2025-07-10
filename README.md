@@ -38,7 +38,7 @@ The application features a modern interface with:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ferbox44/kratosCompiler
    cd Kratos
    ```
 
